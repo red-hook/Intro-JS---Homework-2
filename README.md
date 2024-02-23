@@ -1,2 +1,2 @@
-# red-hook.github.io
+# Homework
 Intro to JS - Week 2 Homework
